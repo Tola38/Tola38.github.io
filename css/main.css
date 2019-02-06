@@ -2706,10 +2706,10 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 600px) {
     .s-works {
-        padding-bottom: 12rem;
+        padding-bottom: 0.5rem;
     }
     .s-works .intro-wrap {
-        padding: 12rem 0 25.2rem;
+        padding: 0;
     }
     .works-content {
         margin-top: -25.2rem;
